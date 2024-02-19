@@ -1,0 +1,10 @@
+1- qadam: Appga nom berish.
+2- qadam Appga icon qo'shish.
+3- qadam package nameni o'zgartirish
+4- qadam .jks fileni hosil qilish.
+5- qadam Play Storeda yangi project ochish
+6- qadam Privacy Policy file create qilish
+7- qadam App Contentlarni to'ldirish.
+8- Store Listing ma'lumotlarini to'ldirish(App Logo, Screenshotlar)
+9- qadam .aab kengaytmali fileni yuklash.
+10-qadam Ko'rib chiqishga yuborish.

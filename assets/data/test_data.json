@@ -1,0 +1,372 @@
+{
+  "data": [
+    {
+      "subject_name": "Matematika",
+      "level": "medium",
+      "color": "0E81B4",
+      "description": "Matemikani biz bilan o'rganing va o'z bilimlaringizni yanada mustahkamlang",
+      "questions": [
+        {
+          "question_text": "To’plam elementlari qanday belgilanadi?",
+          "true_answer": "Lotin alifbosining kichik harflari",
+          "variant_1": "Lotin alifbosining kichik harflari",
+          "variant_2": "Lotin alifbosining  boshharflari",
+          "variant_3": "Grek alifbosining bosh harflari",
+          "variant_4": "Grek alifbosining kichik harflari"
+        },
+        {
+          "question_text": "Elementlari soniga ko’ra to’plam necha turga bo’linadi?",
+          "true_answer": "2",
+          "variant_1": "3",
+          "variant_2": "2",
+          "variant_3": "5",
+          "variant_4": "6"
+        },
+        {
+          "question_text": "A={3;5;8;21;25} to’plam berilgan bo’lsa, n(A) ni toping.",
+          "true_answer": "5",
+          "variant_1": "3",
+          "variant_2": "5",
+          "variant_3": "4",
+          "variant_4": "7"
+        },
+        {
+          "question_text": "U={13 dan kichik bo'lmagan barcha natural sonlar to'plami}. To’plam turini aniqlang.",
+          "true_answer": "Cheksiz",
+          "variant_1": "Cheksiz",
+          "variant_2": "bo’sh",
+          "variant_3": "chekli",
+          "variant_4": "aniqlabbo’lmaydi"
+        },
+        {
+          "question_text": "U={x/-5≤x≤5,x∈Z}, A={x/1≤x≤4,x∈Z} bo’lsa, A’ to’plam elementlarini toping.",
+          "true_answer": "{-5;-4;-3;-2;-1;0;5}",
+          "variant_1": "{-5;-4;-3;5}",
+          "variant_2": "{-5;-4;-3;-2;-1;0;5}",
+          "variant_3": "{-5;-4;-3;-2;-1}",
+          "variant_4": "{-5;5}"
+        },
+        {
+          "question_text": "Venn diagrammasida universal to’plam qanday tasvirlanadi?",
+          "true_answer": "To’g’ri to’rtburchak",
+          "variant_1": "To’g’ri to’rtburchak",
+          "variant_2": "doira",
+          "variant_3": "aylana",
+          "variant_4": "uchburchak"
+        },
+        {
+          "question_text": ". A=(2;4;6) va B=(5;7) bo’lsa, bu to’plamlar birlashmasi elementlarini toping.",
+          "true_answer": "(2;4;5;6;7)  ",
+          "variant_1": "(4;5;6)",
+          "variant_2": "(2;4;5;6;7)  ",
+          "variant_3": "(2;5;7)",
+          "variant_4": "∅"
+        },
+        {
+          "question_text": "Rost yoki yolg’on bo’lgan darak gap ….. deyiladi. Nuqtalarni to’ldiring.",
+          "true_answer": "mulohaza",
+          "variant_1": "To’plam",
+          "variant_2": "inkor",
+          "variant_3": "dizyunksiya",
+          "variant_4": "mulohaza"
+        },
+        {
+          "question_text": "Qaysi qatorda mantiqiy bog’lovchi ko’rsatilgan?",
+          "true_answer": "barcha javoblar  to’g’ri",
+          "variant_1": "Inkor",
+          "variant_2": "barcha javoblar  to’g’ri",
+          "variant_3": "konyunksiya",
+          "variant_4": "dizyunksiya"
+        },
+        {
+          "question_text": "Qaysi belgi “emas”  yoki “ekanligi noto’g’ri” ma’nosini bildiradi?",
+          "true_answer": "¬",
+          "variant_1": "˄",
+          "variant_2": "¬",
+          "variant_3": "˅",
+          "variant_4": "A’"
+        },
+        {
+          "question_text": "Qaysi qatorda mulohazalar konyunksiyasi keltirilgan?",
+          "true_answer": "12 soni 3 ga va 4 ga bo’linadi ",
+          "variant_1": "X-tub son yoki 4 ga bo’linadi.",
+          "variant_2": "Sardor ertaga suzishga bormaydi.",
+          "variant_3": "12 soni 3 ga va 4 ga bo’linadi ",
+          "variant_4": "x soni 3 ga karrali.’"
+        },
+        {
+          "question_text": "Ushbu mulohazaning simvolini ko’rsating: “Anora kinofilmlarni ko’p ko’rsa, Barno kinofilmlarni ko’p ko’rmaydi.”",
+          "true_answer": "p=>¬q",
+          "variant_1": "p˄¬q",
+          "variant_2": "pv¬q",
+          "variant_3": " p˅¬q",
+          "variant_4": "p=>q"
+        },
+        {
+          "question_text": "p=>q  mulohazaning ….. deb q=>p  mulohazaga aytiladi. Nuqtani to’ldiring:?",
+          "true_answer": "konversiyasi",
+          "variant_1": "Implikatsiyasi",
+          "variant_2": "konversiyasi",
+          "variant_3": "inversiyasi",
+          "variant_4": "kontrapozitsiyasi"
+        },
+        {
+          "question_text": "Kontrapozitsiya bilan teng kuchli mulohazani ko’rsating:",
+          "true_answer": "Implikatsiya",
+          "variant_1": "Implikatsiya",
+          "variant_2": "konversiya",
+          "variant_3": "inversiya",
+          "variant_4": "ekvivalensiya"
+        },
+        {
+          "question_text": "Geometriya necha qismdan iborat?",
+          "true_answer": "2",
+          "variant_1": "2",
+          "variant_2": "3",
+          "variant_3": "4",
+          "variant_4": "5’"
+        },
+        {
+          "question_text": "Maktabda o’rganiladigan geometriya qaysi olim nomi bilan yuritiladi?",
+          "true_answer": "Evklid",
+          "variant_1": "Fales",
+          "variant_2": "Evklid",
+          "variant_3": "Pifagor  ",
+          "variant_4": "Lobachevskiy"
+        },
+        {
+          "question_text": "“Negizlar” asari necha kitobdan iborat?",
+          "true_answer": "13",
+          "variant_1": "11",
+          "variant_2": "13",
+          "variant_3": "23",
+          "variant_4": "10"
+        },
+        {
+          "question_text": "Teorema necha qismdan iborat bo’ladi?",
+          "true_answer": "2",
+          "variant_1": "2",
+          "variant_2": "3",
+          "variant_3": "5",
+          "variant_4": "1"
+        },
+        {
+          "question_text": "Aksioma deb nimaga aytiladi?",
+          "true_answer": "sbot talab qilmaydigan jumla",
+          "variant_1": "Isbot talab qiladigan jumla",
+          "variant_2": "Teoremaning teskarisi",
+          "variant_3": "To’g’ri javob ko’rsatilmagan",
+          "variant_4": "sbot talab qilmaydigan jumla"
+        },
+        {
+          "question_text": "g’ri burchakli uchburchakning perimetri 36 sm. Gipotenuzaning katetga nisbati 5:4.Uchburchak tomonlarini toping.?",
+          "true_answer": "11,2",
+          "variant_1": "12,2",
+          "variant_2": "11,2",
+          "variant_3": "8,6",
+          "variant_4": "5.4"
+        }
+      ]
+    },
+    {
+      "subject_name": "Fizika",
+      "description": "Fizikani biz bilan o'rganing va o'z bilimlaringizni yanada mustahkamlang",
+      "level": "easy",
+      "color": "F2954D",
+      "questions": [
+        {
+          "question_text": "Birinchi termometr kim tomonidan yasalgan?",
+          "true_answer": "Galiley",
+          "variant_1": "Gey-Lyussak",
+          "variant_2": "Galiley",
+          "variant_3": "Beruniy",
+          "variant_4": "Braun"
+        },
+        {
+          "question_text": "Mexanika so'zining manosi nima",
+          "true_answer": "Yunoncha, mashina haqidagi ta'limot",
+          "variant_1": "Tabiat degan ma'noni anglatadi, Grekcha",
+          "variant_2": "Yunoncha, mashina haqidagi ta'limot",
+          "variant_3": "Uzliksiz bir o'lchamli degani.",
+          "variant_4": "barcha javoblar to'g'ri"
+        },
+        {
+          "question_text": "Mexanik harakat nima?",
+          "true_answer": " Jismlar fazodagi o'rnining vaqt o'tishi bilan boshqa jismlarga nisbatan o'zgarishiga",
+          "variant_1": " Jismlar fazodagi o'rnining vaqt o'tishi bilan boshqa jismlarga nisbatan o'zgarishiga",
+          "variant_2": "oddiy harakat",
+          "variant_3": "Yo'l qiymati bilan ifodalanadigan harakatga",
+          "variant_4": "Jismlar bosib o'tgan yo'lga"
+        },
+        {
+          "question_text": "Yo'l nima?",
+          "true_answer": "Jismlarni harakat trayektoriyasi bo'ylab bosib o'tgan masofasi.",
+          "variant_1": "Jismlarni harakat trayektoriyasi bo'ylab bosib o'tgan masofasi.",
+          "variant_2": "Jismning harakat davomida bosib o'tgan masofasi.",
+          "variant_3": "Jismlarning ma'lum vaqt oralig'ida bosib o'tgan masofa.",
+          "variant_4": "Jismlar bosib o'tgan yo'lga"
+        },
+        {
+          "question_text": "Skalyar kattalik nima?",
+          "true_answer": "Faqat son qiymati bilan aniqlanadigan kattalik",
+          "variant_1": " Faqat son qiymati bilan aniqlanadigan kattalik",
+          "variant_2": "Faqat yo'nalishi bilan aniqlanadigan kattalik",
+          "variant_3": "Birlikka ega bo'lmagan kattalik",
+          "variant_4": "Son qiymati va yo'nalishi bilan aniqlanadigan kattalikka aytiladi"
+        },
+        {
+          "question_text": "Vektor kattalik nima?",
+          "true_answer": "Son qiymati va yo'nalishi bilan aniqlanadigan kattalikka aytiladi.",
+          "variant_1": "Son qiymati va yo'nalishi bilan aniqlanadigan kattalikka aytiladi.",
+          "variant_2": "Faqat son qiymati bilan aniqlanadigan kattalik",
+          "variant_3": "Faqat yig'indisi bilan aniqlanadigan kattalik",
+          "variant_4": "Faqat son qiymati bilan aniqlanadigan kattalik"
+        },
+        {
+          "question_text": "Tezlikni topish formulasini nima?",
+          "true_answer": "v=s/t",
+          "variant_1": "v=s*t",
+          "variant_2": "v=s/t",
+          "variant_3": "v=F*a",
+          "variant_4": "v=F/m"
+        },
+        {
+          "question_text": "Yo'lni topish formulasini toping.?",
+          "true_answer": "s=v*t",
+          "variant_1": "s=v/t",
+          "variant_2": "s=t/v",
+          "variant_3": "s=v*t",
+          "variant_4": "s=v*a"
+        },
+        {
+          "question_text": "Tezlik birligini toping.?",
+          "true_answer": "m/s",
+          "variant_1": "m/s^2",
+          "variant_2": "m/s",
+          "variant_3": "s/m",
+          "variant_4": "m"
+        },
+        {
+          "question_text": "Tezlik nima bilan o'lchanadi.?",
+          "true_answer": "Spedametr",
+          "variant_1": "Barometr",
+          "variant_2": "Spedametr",
+          "variant_3": "Monometr",
+          "variant_4": "Dinomometr"
+        },
+        {
+          "question_text": "Velosipedning tezligi 30 km soat uni m/s da hisoblang?",
+          "true_answer": "8.33",
+          "variant_1": "8",
+          "variant_2": "83",
+          "variant_3": "8.33",
+          "variant_4": "0.83"
+        },
+        {
+          "question_text": "Jism 12 m/s tezlik bilan tekis harakatlanayotgan bo'lsa u 60 m yo'lni\nqancha vaqtda bosib o'tadi.\n?",
+          "true_answer": "5",
+          "variant_1": "12",
+          "variant_2": "10",
+          "variant_3": "7",
+          "variant_4": "5"
+        },
+        {
+          "question_text": "Jismlarning erkin tushushni birinchi bo'lib kim aniqladi?",
+          "true_answer": "Galiley",
+          "variant_1": "Aristotel",
+          "variant_2": "Arximed",
+          "variant_3": "Nyuton",
+          "variant_4": "Galiley"
+        },
+        {
+          "question_text": "Ko'chish nima?",
+          "true_answer": "Jism harakatidagi boshlang'ich va oxirgi vaziyatini tutashuvchi yo'nashli kesma",
+          "variant_1": "Jism harakatidagi boshlang'ich va oxirgi vaziyatini tutashuvchi yo'nashli kesma",
+          "variant_2": " Jismning harakat trayektoryasi bo'ylab bosib o'tgan masofasi.",
+          "variant_3": "Jismning harakat davomida bosib o'tgan masofasi",
+          "variant_4": "Jismning kochishiga aytiladi"
+        },
+        {
+          "question_text": "Og'irlik kuchini formulasini  ko'rsating.",
+          "true_answer": "F=m*g",
+          "variant_1": "F=m*a",
+          "variant_2": "F=m*g",
+          "variant_3": "F=m*s",
+          "variant_4": "F=m/a"
+        },
+        {
+          "question_text": "Bosim deb nimaga aytiladi?",
+          "true_answer": "Yuza birligiga tik ravishda qo'yilgan kuchga to'g'ri keladigan fizik kattalikka.",
+          "variant_1": "Yuza birligiga tik ravishda qo'yilgan kuchga to'g'ri keladigan fizik kattalikka.",
+          "variant_2": "Moddaning birlik hajmiga to'g'ri keladigan massaga.",
+          "variant_3": "To'g'ri javob yo'q.",
+          "variant_4": "hammasi to'g'ri"
+        },
+        {
+          "question_text": "Bosim qaysi harf  bilan   belgilanadi.?",
+          "true_answer": "P",
+          "variant_1": "F",
+          "variant_2": "P",
+          "variant_3": "J",
+          "variant_4": "Q"
+        },
+        {
+          "question_text": "Bosim birligini ko'rsating?",
+          "true_answer": "N/m^2",
+          "variant_1": "N",
+          "variant_2": "m^2",
+          "variant_3": "J",
+          "variant_4": "N/m^2"
+        },
+        {
+          "question_text": "Paskal qonuni aytib bering.?",
+          "true_answer": "Suyuqlik va gazga berilgan tashqi bosim hamma tomonga o'zgarishsiz.",
+          "variant_1": "A va B to'gri",
+          "variant_2": "Yuza birligiga tik ravishda qo'yilgan kuchga to'g'ri keladiga fizik kattalikka.",
+          "variant_3": "Suyuqlik va gazga berilgan tashqi bosim hamma tomonga o'zgarishsiz.",
+          "variant_4": "To'g'ri javob yo'q"
+        },
+        {
+          "question_text": "Tutash idishlarda turli suyuqlik solingan bo'lsa unda suyuqlik safni qanday bo'ladi.?",
+          "true_answer": "Teng",
+          "variant_1": "Teng emas",
+          "variant_2": "Teng",
+          "variant_3": "Bazan teng Bazan teng emas",
+          "variant_4": "C javob to'g'ri"
+        },
+        {
+          "question_text": "Atmosfera bosimini qanday asbob bilan o'lchaymiz.?",
+          "true_answer": "Barometr",
+          "variant_1": "Ampermetr",
+          "variant_2": "Dinometr",
+          "variant_3": "Monometr",
+          "variant_4": "Barometr"
+        }
+      ]
+    },
+    {
+      "subject_name": "English",
+      "level": "medium",
+      "color": "#EB5757",
+      "description": "English test",
+      "questions": [
+        {
+          "question_text": "I .. a student?",
+          "true_answer": "am",
+          "variant_1": "is",
+          "variant_2": "am",
+          "variant_3": "are",
+          "variant_4": "it"
+        },
+        {
+          "question_text": "I .. a student?",
+          "true_answer": "am",
+          "variant_1": "is",
+          "variant_2": "am",
+          "variant_3": "are",
+          "variant_4": "it"
+        }
+      ]
+    }
+  ]
+}
