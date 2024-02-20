@@ -62,7 +62,10 @@ class AnswerReport {
           onlySelectedAnswersCount++;
         }
       }
-      averageTimeForEachAnswer = spentTime ~/ onlySelectedAnswersCount;
+
+      if (onlySelectedAnswersCount != 0) {
+        averageTimeForEachAnswer = spentTime ~/ onlySelectedAnswersCount;
+      }
     }
 
     totalTime = subjectModel.questions.length * 10;
