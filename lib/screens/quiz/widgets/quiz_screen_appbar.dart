@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:my_quiz_app/screens/widgets/global_button.dart';
 import 'package:my_quiz_app/utils/colors.dart';
 import 'package:my_quiz_app/utils/icons.dart';
 import 'package:my_quiz_app/utils/size/size_utils.dart';

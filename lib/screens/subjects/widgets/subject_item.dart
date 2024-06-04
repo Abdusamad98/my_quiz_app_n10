@@ -21,7 +21,6 @@ class SubjectItem extends StatelessWidget {
     return Container(
       margin: EdgeInsets.symmetric(horizontal: 16.w, vertical: 8.h),
       child: Ink(
-        height: MediaQuery.of(context).size.height / 7,
         decoration: BoxDecoration(
           color: subjectModel.color,
           borderRadius: BorderRadius.circular(10.w),

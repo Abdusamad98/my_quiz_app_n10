@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'package:my_quiz_app/data/data_repository.dart';
 import 'package:my_quiz_app/screens/subjects/subjects_screen.dart';
-import 'package:my_quiz_app/utils/colors.dart';
 import 'package:my_quiz_app/utils/icons.dart';
 import 'package:my_quiz_app/utils/size/size_utils.dart';
 

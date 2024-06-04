@@ -4,7 +4,7 @@ import 'package:my_quiz_app/utils/size/size_utils.dart';
 import 'package:my_quiz_app/utils/styles.dart';
 
 class GlobalButton extends StatelessWidget {
-  GlobalButton({
+  const GlobalButton({
     Key? key,
     required this.title,
     required this.onTap,
@@ -15,7 +15,7 @@ class GlobalButton extends StatelessWidget {
   final String title;
   final Color color;
   final VoidCallback onTap;
-  bool withBorder;
+  final bool withBorder;
 
   @override
   Widget build(BuildContext context) {

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:my_quiz_app/models/level_model.dart';
 import 'package:my_quiz_app/models/quiz_model.dart';
-import 'package:my_quiz_app/utils/colors.dart';
 import 'package:my_quiz_app/utils/utility_functions.dart';
 
 class SubjectModel {

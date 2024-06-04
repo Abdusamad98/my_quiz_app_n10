@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:my_quiz_app/utils/colors.dart';
 import 'package:my_quiz_app/utils/size/size_utils.dart';
@@ -46,11 +47,13 @@ class VariantItemView extends StatelessWidget {
                     ),
                   ),
                   12.getW(),
-                  Text(
-                    variantText,
-                    style: AppTextStyle.interMedium.copyWith(
-                      color: AppColors.white,
-                      fontSize: 14.w,
+                  Expanded(
+                    child: Text(
+                      variantText,
+                      style: AppTextStyle.interMedium.copyWith(
+                        color: AppColors.white,
+                        fontSize: 14.w,
+                      ),
                     ),
                   ),
                 ],

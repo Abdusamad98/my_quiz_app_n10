@@ -22,6 +22,4 @@ class AppImages {
 
   //data
   static const String testData = "assets/data/test_data.json";
-
-
 }
