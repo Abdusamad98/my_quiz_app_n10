@@ -711,14 +711,135 @@
           "variant_4": "it"
         },
         {
-          "question_text": "I .. a student?",
+          "question_text": "She .. a teacher?",
+          "true_answer": "is",
+          "variant_1": "is",
+          "variant_2": "am",
+          "variant_3": "are",
+          "variant_4": "it"
+        },
+        {
+          "question_text": "They .. playing football.",
+          "true_answer": "are",
+          "variant_1": "is",
+          "variant_2": "am",
+          "variant_3": "are",
+          "variant_4": "it"
+        },
+        {
+          "question_text": "We .. happy.",
+          "true_answer": "are",
+          "variant_1": "is",
+          "variant_2": "am",
+          "variant_3": "are",
+          "variant_4": "it"
+        },
+        {
+          "question_text": "You .. my friend.",
+          "true_answer": "are",
+          "variant_1": "is",
+          "variant_2": "am",
+          "variant_3": "are",
+          "variant_4": "it"
+        },
+        {
+          "question_text": "It .. a sunny day.",
+          "true_answer": "is",
+          "variant_1": "is",
+          "variant_2": "am",
+          "variant_3": "are",
+          "variant_4": "it"
+        },
+        {
+          "question_text": "I .. going to the store.",
           "true_answer": "am",
           "variant_1": "is",
           "variant_2": "am",
           "variant_3": "are",
           "variant_4": "it"
+        },
+        {
+          "question_text": "He .. very tall.",
+          "true_answer": "is",
+          "variant_1": "is",
+          "variant_2": "am",
+          "variant_3": "are",
+          "variant_4": "it"
+        },
+        {
+          "question_text": "They .. studying.",
+          "true_answer": "are",
+          "variant_1": "is",
+          "variant_2": "am",
+          "variant_3": "are",
+          "variant_4": "it"
+        },
+        {
+          "question_text": "What is the past tense of 'go'?",
+          "true_answer": "went",
+          "variant_1": "goed",
+          "variant_2": "gone",
+          "variant_3": "went",
+          "variant_4": "going"
+        },
+        {
+          "question_text": "Choose the correct form: She .. to the store yesterday.",
+          "true_answer": "went",
+          "variant_1": "goed",
+          "variant_2": "gone",
+          "variant_3": "went",
+          "variant_4": "going"
+        },
+        {
+          "question_text": "Which word is a noun?",
+          "true_answer": "dog",
+          "variant_1": "quickly",
+          "variant_2": "happy",
+          "variant_3": "dog",
+          "variant_4": "run"
+        },
+        {
+          "question_text": "Which word is an adjective?",
+          "true_answer": "happy",
+          "variant_1": "jump",
+          "variant_2": "happily",
+          "variant_3": "happy",
+          "variant_4": "dog"
+        },
+        {
+          "question_text": "Choose the correct form: I have .. my homework.",
+          "true_answer": "done",
+          "variant_1": "do",
+          "variant_2": "does",
+          "variant_3": "did",
+          "variant_4": "done"
+        },
+        {
+          "question_text": "What is the opposite of 'hot'?",
+          "true_answer": "cold",
+          "variant_1": "warm",
+          "variant_2": "cold",
+          "variant_3": "cool",
+          "variant_4": "hotter"
+        },
+        {
+          "question_text": "Choose the correct sentence:",
+          "true_answer": "She is reading a book.",
+          "variant_1": "She are reading a book.",
+          "variant_2": "She is read a book.",
+          "variant_3": "She is reading a book.",
+          "variant_4": "She reading a book."
+        },
+        {
+          "question_text": "Fill in the blank: I have two ..",
+          "true_answer": "brothers",
+          "variant_1": "brother",
+          "variant_2": "brothers",
+          "variant_3": "brother's",
+          "variant_4": "broth"
         }
       ]
     }
+
   ]
 }
