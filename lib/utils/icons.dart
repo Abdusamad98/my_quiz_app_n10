@@ -1,12 +1,12 @@
 class AppImages {
   //png
   static const String bicycle = "assets/images/bicycle.png";
-  static const String logo = "assets/images/logo.png";
+  static const String logo = "assets/images/ic_launcher.png";
   static const String english = "assets/images/english.png";
   static const String flutter = "assets/images/flutter.png";
 
   //jpg
-  static const String math = "assets/images/math.jpg";
+  static const String quiz = "assets/images/quiz.png";
 
   //svg
   static const String react = "assets/svg/react.svg";

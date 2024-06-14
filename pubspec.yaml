@@ -19,12 +19,16 @@ dependencies:
   percent_indicator: ^4.2.3
   change_app_package_name: ^1.1.0
   lottie: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
 
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/ic_launcher.png"
 
   flutter_lints: ^2.0.0
 
