@@ -67,7 +67,9 @@ class SubjectItem extends StatelessWidget {
                   children: [
                     Text(
                       subjectModel.level.name,
-                      style: Theme.of(context).textTheme.titleLarge,
+                      style: Theme.of(context).textTheme.titleLarge?.copyWith(
+                        color: AppColors.white
+                      ),
                     ),
                     Text(
                       subjectModel.questions.length.toString(),

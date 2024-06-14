@@ -6,7 +6,7 @@ class AppImages {
   static const String flutter = "assets/images/flutter.png";
 
   //jpg
-  static const String math = "assets/images/math.jpg";
+  static const String quiz = "assets/images/quiz.png";
 
   //svg
   static const String react = "assets/svg/react.svg";

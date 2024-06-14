@@ -76,7 +76,7 @@ class _StartQuizScreenState extends State<StartQuizScreen> {
                               children: [
                                 ClipRRect(
                                   borderRadius: BorderRadius.circular(16.w),
-                                  child: Image.asset(AppImages.math),
+                                  child: Image.asset(AppImages.quiz),
                                 ),
                                 3.getH(),
                                 Padding(

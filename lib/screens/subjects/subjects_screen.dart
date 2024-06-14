@@ -26,6 +26,7 @@ class _SubjectsScreenState extends State<SubjectsScreen> {
         ),
       ),
       body: ListView(
+        physics: const BouncingScrollPhysics(),
         children: [
           ...List.generate(DataRepository().allSubjects.length, (index) {
             SubjectModel subject = DataRepository().allSubjects[index];

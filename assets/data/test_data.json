@@ -1,6 +1,358 @@
 {
   "data": [
     {
+      "subject_name": "Informatika",
+      "level": "medium",
+      "color": "#228B22",
+      "description": "Informatika fanidan test savollari",
+      "questions": [
+        {
+          "question_text": "Eng keng tarqalgan operatsion tizim qaysi?",
+          "true_answer": "Windows",
+          "variant_1": "Windows",
+          "variant_2": "Linux",
+          "variant_3": "MacOS",
+          "variant_4": "Android"
+        },
+        {
+          "question_text": "Qaysi til web sahifalarini yaratishda ishlatiladi?",
+          "true_answer": "HTML",
+          "variant_1": "HTML",
+          "variant_2": "C++",
+          "variant_3": "Python",
+          "variant_4": "Java"
+        },
+        {
+          "question_text": "JavaScript nima uchun ishlatiladi?",
+          "true_answer": "Web sahifalarni interaktiv qilish",
+          "variant_1": "Web sahifalarni interaktiv qilish",
+          "variant_2": "Ma'lumotlarni saqlash",
+          "variant_3": "Ilovalar yaratish",
+          "variant_4": "Operatsion tizim yaratish"
+        },
+        {
+          "question_text": "CSS nimani belgilashda ishlatiladi?",
+          "true_answer": "Web sahifalarning ko'rinishi",
+          "variant_1": "Web sahifalarning ko'rinishi",
+          "variant_2": "Dasturlash",
+          "variant_3": "Ma'lumotlar bazasi",
+          "variant_4": "Tarmoqlarni sozlash"
+        },
+        {
+          "question_text": "Ma'lumotlarni saqlash uchun qaysi til ishlatiladi?",
+          "true_answer": "SQL",
+          "variant_1": "SQL",
+          "variant_2": "HTML",
+          "variant_3": "CSS",
+          "variant_4": "Python"
+        },
+        {
+          "question_text": "Qaysi qurilma kompyuterning 'miyasi' deb ataladi?",
+          "true_answer": "Protsessor",
+          "variant_1": "Protsessor",
+          "variant_2": "Qattiq disk",
+          "variant_3": "Operativ xotira",
+          "variant_4": "Grafik karta"
+        },
+        {
+          "question_text": "IP-manzil nima uchun ishlatiladi?",
+          "true_answer": "Kompyuterlarni tarmoqda aniqlash",
+          "variant_1": "Kompyuterlarni tarmoqda aniqlash",
+          "variant_2": "Ma'lumotlarni shifrlash",
+          "variant_3": "Dasturlarni boshqarish",
+          "variant_4": "Operatsion tizimni o'rnatish"
+        },
+        {
+          "question_text": "RAM nimani anglatadi?",
+          "true_answer": "Tasodifiy kirish xotirasi",
+          "variant_1": "Tasodifiy kirish xotirasi",
+          "variant_2": "Qo'shimcha xotira",
+          "variant_3": "Doimiy xotira",
+          "variant_4": "Katta xotira"
+        },
+        {
+          "question_text": "Qaysi dasturiy vosita tasvirni tahrirlashda ishlatiladi?",
+          "true_answer": "Photoshop",
+          "variant_1": "Photoshop",
+          "variant_2": "Excel",
+          "variant_3": "Word",
+          "variant_4": "PowerPoint"
+        },
+        {
+          "question_text": "HTTPS nima uchun ishlatiladi?",
+          "true_answer": "Veb sahifalarning xavfsizligi",
+          "variant_1": "Veb sahifalarning xavfsizligi",
+          "variant_2": "Fayllarni saqlash",
+          "variant_3": "Elektron pochta",
+          "variant_4": "Tarmoqni sozlash"
+        }
+      ]
+    },
+    {
+      "subject_name": "Geografiya",
+      "level": "medium",
+      "color": "#1E90FF",
+      "description": "Geografiyani biz bilan o'rganing va o'z bilimlaringizni yanada mustahkamlang",
+      "questions": [
+        {
+          "question_text": "O'zbekistonning eng baland nuqtasi qayerda?",
+          "true_answer": "Hazrat Sulton",
+          "variant_1": "Hazrat Sulton",
+          "variant_2": "Nurota tog'lari",
+          "variant_3": "Qoratog'",
+          "variant_4": "Zarafshon tog'lari"
+        },
+        {
+          "question_text": "Yer yuzasining qanchasi suv bilan qoplangan?",
+          "true_answer": "71%",
+          "variant_1": "71%",
+          "variant_2": "65%",
+          "variant_3": "75%",
+          "variant_4": "60%"
+        },
+        {
+          "question_text": "Amazonka daryosi qaysi qit'ada joylashgan?",
+          "true_answer": "Janubiy Amerika",
+          "variant_1": "Janubiy Amerika",
+          "variant_2": "Shimoliy Amerika",
+          "variant_3": "Afrika",
+          "variant_4": "Avstraliya"
+        },
+        {
+          "question_text": "Dunyoning eng katta cho'li qaysi?",
+          "true_answer": "Sahara",
+          "variant_1": "Sahara",
+          "variant_2": "Kalahari",
+          "variant_3": "Arabiston cho'li",
+          "variant_4": "Gobi cho'li"
+        },
+        {
+          "question_text": "Qaysi davlatning poytaxti Tokio?",
+          "true_answer": "Yaponiya",
+          "variant_1": "Yaponiya",
+          "variant_2": "Xitoy",
+          "variant_3": "Koreya",
+          "variant_4": "Tailand"
+        },
+        {
+          "question_text": "Yerdagi eng katta okean qaysi?",
+          "true_answer": "Tinch okeani",
+          "variant_1": "Tinch okeani",
+          "variant_2": "Atlantika okeani",
+          "variant_3": "Hind okeani",
+          "variant_4": "Shimoliy muz okeani"
+        },
+        {
+          "question_text": "Yevropaning eng katta davlati qaysi?",
+          "true_answer": "Rossiya",
+          "variant_1": "Rossiya",
+          "variant_2": "Germaniya",
+          "variant_3": "Fransiya",
+          "variant_4": "Ispaniya"
+        },
+        {
+          "question_text": "Nil daryosi qaysi qit'ada joylashgan?",
+          "true_answer": "Afrika",
+          "variant_1": "Afrika",
+          "variant_2": "Osiyo",
+          "variant_3": "Yevropa",
+          "variant_4": "Avstraliya"
+        },
+        {
+          "question_text": "Everest tog'i qayerda joylashgan?",
+          "true_answer": "Himolay tog'lari",
+          "variant_1": "Himolay tog'lari",
+          "variant_2": "And tog'lari",
+          "variant_3": "Alp tog'lari",
+          "variant_4": "Appalachi tog'lari"
+        },
+        {
+          "question_text": "Avstraliyaning poytaxti qaysi shahar?",
+          "true_answer": "Kanberra",
+          "variant_1": "Kanberra",
+          "variant_2": "Sidney",
+          "variant_3": "Melburn",
+          "variant_4": "Brisben"
+        }
+      ]
+    },
+    {
+      "subject_name": "Adabiyot",
+      "level": "medium",
+      "color": "#D2691E",
+      "description": "Adabiyot fanidan test savollari",
+      "questions": [
+        {
+          "question_text": "Alisher Navoiy qachon tug'ilgan?",
+          "true_answer": "1441",
+          "variant_1": "1441",
+          "variant_2": "1451",
+          "variant_3": "1461",
+          "variant_4": "1471"
+        },
+        {
+          "question_text": "'Boburnoma' asarining muallifi kim?",
+          "true_answer": "Zahiriddin Muhammad Bobur",
+          "variant_1": "Alisher Navoiy",
+          "variant_2": "Zahiriddin Muhammad Bobur",
+          "variant_3": "Abu Rayhon Beruniy",
+          "variant_4": "Amir Temur"
+        },
+        {
+          "question_text": "'Layli va Majnun' dostoni kimning asari?",
+          "true_answer": "Alisher Navoiy",
+          "variant_1": "Alisher Navoiy",
+          "variant_2": "Abdurahmon Jomiy",
+          "variant_3": "Hofiz Sheroziy",
+          "variant_4": "Abu Ali ibn Sino"
+        },
+        {
+          "question_text": "Chingiz Aytmatovning mashhur asari qaysi?",
+          "true_answer": "Jamila",
+          "variant_1": "Jamila",
+          "variant_2": "Gulnor",
+          "variant_3": "O'tgan kunlar",
+          "variant_4": "Mehrobdan chayon"
+        },
+        {
+          "question_text": "Abdulla Qodiriyning qaysi asari mashhur?",
+          "true_answer": "O'tgan kunlar",
+          "variant_1": "O'tgan kunlar",
+          "variant_2": "Mehrobdan chayon",
+          "variant_3": "Scorpion from Mehrob",
+          "variant_4": "Nurali and Zulfiya"
+        },
+        {
+          "question_text": "'Hamsa' qaysi shoirning asari?",
+          "true_answer": "Alisher Navoiy",
+          "variant_1": "Alisher Navoiy",
+          "variant_2": "Zahiriddin Muhammad Bobur",
+          "variant_3": "Abdurahmon Jomiy",
+          "variant_4": "Hofiz Sheroziy"
+        },
+        {
+          "question_text": "'Kuntug'mish' dostoni kimning asari?",
+          "true_answer": "Yusuf Xos Hojib",
+          "variant_1": "Yusuf Xos Hojib",
+          "variant_2": "Alisher Navoiy",
+          "variant_3": "Abdurahmon Jomiy",
+          "variant_4": "Hofiz Sheroziy"
+        },
+        {
+          "question_text": "Shayx Sa'diy qaysi mamlakatda yashagan?",
+          "true_answer": "Eron",
+          "variant_1": "Eron",
+          "variant_2": "Turkiya",
+          "variant_3": "Hindiston",
+          "variant_4": "Xitoy"
+        },
+        {
+          "question_text": "Qaysi adib 'Shoh va shoir' asarini yozgan?",
+          "true_answer": "Alisher Navoiy",
+          "variant_1": "Alisher Navoiy",
+          "variant_2": "Abdurahmon Jomiy",
+          "variant_3": "Hofiz Sheroziy",
+          "variant_4": "Abu Ali ibn Sino"
+        },
+        {
+          "question_text": "'Farhod va Shirin' dostoni qaysi shoirga tegishli?",
+          "true_answer": "Alisher Navoiy",
+          "variant_1": "Alisher Navoiy",
+          "variant_2": "Nizomiy Ganjaviy",
+          "variant_3": "Abdurahmon Jomiy",
+          "variant_4": "Hofiz Sheroziy"
+        }
+      ]
+    },
+    {
+      "subject_name": "Tarix",
+      "level": "medium",
+      "color": "#6A0DAD",
+      "description": "Tarixni biz bilan o'rganing va o'z bilimlaringizni yanada mustahkamlang",
+      "questions": [
+        {
+          "question_text": "O'zbekistonning poytaxti qaysi shahar?",
+          "true_answer": "Toshkent",
+          "variant_1": "Samarqand",
+          "variant_2": "Buxoro",
+          "variant_3": "Toshkent",
+          "variant_4": "Andijon"
+        },
+        {
+          "question_text": "Amir Temur qachon tug'ilgan?",
+          "true_answer": "1336",
+          "variant_1": "1336",
+          "variant_2": "1340",
+          "variant_3": "1405",
+          "variant_4": "1366"
+        },
+        {
+          "question_text": "Buxoro amirligi qachon tashkil topgan?",
+          "true_answer": "1785",
+          "variant_1": "1750",
+          "variant_2": "1785",
+          "variant_3": "1800",
+          "variant_4": "1825"
+        },
+        {
+          "question_text": "Qaysi jangda Jaloliddin Manguberdi g'olib bo'lgan?",
+          "true_answer": "Indus daryosi bo'yidagi jang",
+          "variant_1": "Indus daryosi bo'yidagi jang",
+          "variant_2": "Amudaryo jang",
+          "variant_3": "Turon jang",
+          "variant_4": "Qatvon jang"
+        },
+        {
+          "question_text": "Temuriylar davlatining asoschisi kim?",
+          "true_answer": "Amir Temur",
+          "variant_1": "Amir Temur",
+          "variant_2": "Ulug'bek",
+          "variant_3": "Bobur",
+          "variant_4": "Shayboniyxon"
+        },
+        {
+          "question_text": "O'zbekiston qachon mustaqillikka erishdi?",
+          "true_answer": "1991",
+          "variant_1": "1991",
+          "variant_2": "1989",
+          "variant_3": "1995",
+          "variant_4": "2000"
+        },
+        {
+          "question_text": "Qaysi hukmdor O'rta Osiyoni birlashtirdi?",
+          "true_answer": "Amir Temur",
+          "variant_1": "Amir Temur",
+          "variant_2": "Shayboniyxon",
+          "variant_3": "Ulug'bek",
+          "variant_4": "Xiva xoni"
+        },
+        {
+          "question_text": "Xiva xonligi qachon tugatildi?",
+          "true_answer": "1920",
+          "variant_1": "1917",
+          "variant_2": "1920",
+          "variant_3": "1924",
+          "variant_4": "1930"
+        },
+        {
+          "question_text": "Buxoro amirligi qachon tugatildi?",
+          "true_answer": "1920",
+          "variant_1": "1918",
+          "variant_2": "1920",
+          "variant_3": "1923",
+          "variant_4": "1925"
+        },
+        {
+          "question_text": "Qaysi yil Samarqand poytaxt bo'lgan?",
+          "true_answer": "1370",
+          "variant_1": "1370",
+          "variant_2": "1400",
+          "variant_3": "1450",
+          "variant_4": "1500"
+        }
+      ]
+    },
+    {
       "subject_name": "Matematika",
       "level": "medium",
       "color": "0E81B4",
